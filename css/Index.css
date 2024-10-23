@@ -1,0 +1,7 @@
+.section{
+    width: auto;
+    display: flex;
+    margin: 10%;
+    border-radius: 15px;
+    border-color: black;
+}
